@@ -12,6 +12,8 @@ decimal salario = 3500.75m;
 char inicial = 'G';
 string nome = "Guilherme";
 
+SByte x = 100;
+
 bool ativo = true;
 
 Console.WriteLine($"Idade: {idade}");
