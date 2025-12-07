@@ -1,4 +1,5 @@
 using System;
+using System.Globalization;
 
 Console.WriteLine("=== Exemplos de Saída de Dados ===");
 
@@ -27,5 +28,19 @@ Console.WriteLine("Barra invertida: \\");
 
 DateTime agora = DateTime.Now;
 Console.WriteLine($"\nData atual: {agora:dd/MM/yyyy HH:mm:ss}");
+
+Console.WriteLine("=== CultureInfo.InvariantCulture ===");
+
+double numero = 1234.56;
+DateTime data = DateTime.Now;
+
+Console.WriteLine("Padrão da máquina: " + numero);
+Console.WriteLine("InvariantCulture: " + numero.ToString(CultureInfo.InvariantCulture));
+
+Console.WriteLine("Data (Invariant): " + data.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture));
+
+string textoNumero = "78.99";
+double convertido = double.Parse(textoNumero, CultureInfo.InvariantCulture);
+Console.WriteLine("Parse com Invariant: " + convertido);
 
 Console.WriteLine("\nFim!");
