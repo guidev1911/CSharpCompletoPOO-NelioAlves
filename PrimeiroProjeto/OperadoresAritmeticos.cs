@@ -22,3 +22,13 @@ x = 5;
 Console.WriteLine($"x--  (pós):  {x--} -> depois: {x}");
 x = 5;
 Console.WriteLine($"--x  (pré):  {--x}");
+
+Console.WriteLine("\n=== Funções Matemáticas ===");
+
+double raiz = Math.Sqrt(25);         // raiz quadrada
+double potencia = Math.Pow(4, 3);    // 4 elevado a 3 = 64
+
+Console.WriteLine($"Math.Sqrt(25)  -> {raiz}");
+Console.WriteLine($"Math.Pow(4, 3) -> {potencia}");
+
+Console.WriteLine("\nFim!"); 
