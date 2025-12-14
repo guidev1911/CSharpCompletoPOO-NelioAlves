@@ -10,7 +10,7 @@ if (rl ==rl)//if + tab = if ()
 {
     
 }
-if ()//ife + tab = if e else
+if (rl==rl)//ife + tab = if e else
 {
     
 }
