@@ -1,7 +1,8 @@
 using System;
 using System.Globalization;
+namespace PrimeiroProjeto;
 
-class Program
+class ClassePrincipalProduto
 {
     static void Main()
     {

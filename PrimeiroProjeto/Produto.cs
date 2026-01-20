@@ -1,6 +1,7 @@
 using System.Globalization;
+namespace PrimeiroProjeto;
 
-class Produto
+public class Produto
 {
     public string Nome;
     public double Preco;

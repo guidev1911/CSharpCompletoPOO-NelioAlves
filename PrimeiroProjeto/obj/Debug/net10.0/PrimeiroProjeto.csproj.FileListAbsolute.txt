@@ -1,0 +1,5 @@
+C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.sourcelink.json

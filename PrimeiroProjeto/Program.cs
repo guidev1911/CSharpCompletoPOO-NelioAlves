@@ -1,28 +1,41 @@
-using System;
+﻿using System;
+using System.Globalization;
+namespace PrimeiroProjeto;
 
-Console.WriteLine("=== Tipos de Dados Básicos em C# ===");
+class Program
+{
+    static void Main()
+    {
+        Produto p = new Produto();
 
-int idade = 25;
-long populacaoMundial = 8000000000;
+        Console.WriteLine("Entre os dados do produto:");
+        Console.Write("Nome: ");
+        p.Nome = Console.ReadLine();
 
-float temperatura = 26.5f;   
-double preco = 199.99;       
-decimal salario = 3500.75m;  
+        Console.Write("Preço: ");
+        p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-char inicial = 'G';
-string nome = "Guilherme";
+        Console.Write("Quantidade no estoque: ");
+        p.Quantidade = int.Parse(Console.ReadLine());
 
-SByte x = 100;
+        Console.WriteLine();
+        Console.WriteLine("Dados do produto: " + p);
 
-bool ativo = true;
+        Console.WriteLine();
+        Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+        int qtd = int.Parse(Console.ReadLine());
+        p.AdicionarProdutos(qtd);
 
-Console.WriteLine($"Idade: {idade}");
-Console.WriteLine($"População mundial: {populacaoMundial}");
-Console.WriteLine($"Temperatura: {temperatura}");
-Console.WriteLine($"Preço: {preco}");
-Console.WriteLine($"Salário: {salario}");
-Console.WriteLine($"Inicial do nome: {inicial}");
-Console.WriteLine($"Nome: {nome}");
-Console.WriteLine($"Ativo: {ativo}");
+        Console.WriteLine();
+        Console.WriteLine("Dados atualizados: " + p);
 
-Console.WriteLine("\nPrograma finalizado!");
+        Console.WriteLine();
+        Console.Write("Digite o número de produtos a ser removido do estoque: ");
+        qtd = int.Parse(Console.ReadLine());
+        p.RemoverProdutos(qtd);
+
+        Console.WriteLine();
+        Console.WriteLine("Dados atualizados: " + p);
+    }
+}
+
