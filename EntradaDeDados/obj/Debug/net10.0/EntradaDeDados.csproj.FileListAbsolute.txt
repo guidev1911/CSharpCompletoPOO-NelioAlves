@@ -13,3 +13,18 @@ C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\EntradaDeDados\obj\Debug\net10.0\
 C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.pdb
 C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.genruntimeconfig.cache
 C:\Users\guisp\PROJETOS PESSOAIS\POOnelioAlves\EntradaDeDados\obj\Debug\net10.0\ref\EntradaDeDados.dll
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\bin\Debug\net10.0\EntradaDeDados.exe
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\bin\Debug\net10.0\EntradaDeDados.deps.json
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\bin\Debug\net10.0\EntradaDeDados.runtimeconfig.json
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\bin\Debug\net10.0\EntradaDeDados.dll
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\bin\Debug\net10.0\EntradaDeDados.pdb
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.AssemblyInfoInputs.cache
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.AssemblyInfo.cs
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.sourcelink.json
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.dll
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\refint\EntradaDeDados.dll
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.pdb
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\EntradaDeDados.genruntimeconfig.cache
+F:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\EntradaDeDados\obj\Debug\net10.0\ref\EntradaDeDados.dll
