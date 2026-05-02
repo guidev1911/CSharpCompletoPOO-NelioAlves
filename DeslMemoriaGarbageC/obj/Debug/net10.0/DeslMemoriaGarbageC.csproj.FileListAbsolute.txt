@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\bin\Debug\net10.0\DeslMemoriaGarbageC.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\bin\Debug\net10.0\DeslMemoriaGarbageC.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\bin\Debug\net10.0\DeslMemoriaGarbageC.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\bin\Debug\net10.0\DeslMemoriaGarbageC.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\bin\Debug\net10.0\DeslMemoriaGarbageC.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\refint\DeslMemoriaGarbageC.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\DeslMemoriaGarbageC.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\DeslMemoriaGarbageC\obj\Debug\net10.0\ref\DeslMemoriaGarbageC.dll
