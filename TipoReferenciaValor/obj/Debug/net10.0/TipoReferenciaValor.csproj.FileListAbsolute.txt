@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\bin\Debug\net10.0\TipoReferenciaValor.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\bin\Debug\net10.0\TipoReferenciaValor.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\bin\Debug\net10.0\TipoReferenciaValor.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\bin\Debug\net10.0\TipoReferenciaValor.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\bin\Debug\net10.0\TipoReferenciaValor.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\refint\TipoReferenciaValor.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\TipoReferenciaValor.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\TipoReferenciaValor\obj\Debug\net10.0\ref\TipoReferenciaValor.dll
