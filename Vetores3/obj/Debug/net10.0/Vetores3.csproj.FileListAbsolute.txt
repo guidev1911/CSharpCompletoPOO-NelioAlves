@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\bin\Debug\net10.0\Vetores3.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\bin\Debug\net10.0\Vetores3.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\bin\Debug\net10.0\Vetores3.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\bin\Debug\net10.0\Vetores3.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\bin\Debug\net10.0\Vetores3.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\refint\Vetores3.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\Vetores3.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Vetores3\obj\Debug\net10.0\ref\Vetores3.dll
