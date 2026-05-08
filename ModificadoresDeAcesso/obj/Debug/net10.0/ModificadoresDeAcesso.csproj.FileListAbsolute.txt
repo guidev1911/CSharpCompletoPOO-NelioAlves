@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\bin\Debug\net10.0\ModificadoresDeAcesso.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\refint\ModificadoresDeAcesso.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ModificadoresDeAcesso.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\ModificadoresDeAcesso\obj\Debug\net10.0\ref\ModificadoresDeAcesso.dll
