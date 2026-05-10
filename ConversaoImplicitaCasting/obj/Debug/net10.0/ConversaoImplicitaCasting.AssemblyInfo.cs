@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoImplicitaCasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dfe937b40656e213f2f03b3077b5d34379e4534")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e14000cc3bec115dc548d94a54ed15590d570b2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversaoImplicitaCasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversaoImplicitaCasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

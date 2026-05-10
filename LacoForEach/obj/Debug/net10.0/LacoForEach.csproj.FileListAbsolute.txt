@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\bin\Debug\net10.0\LacoForEach.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\bin\Debug\net10.0\LacoForEach.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\bin\Debug\net10.0\LacoForEach.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\bin\Debug\net10.0\LacoForEach.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\bin\Debug\net10.0\LacoForEach.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\refint\LacoForEach.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\LacoForEach.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\LacoForEach\obj\Debug\net10.0\ref\LacoForEach.dll
