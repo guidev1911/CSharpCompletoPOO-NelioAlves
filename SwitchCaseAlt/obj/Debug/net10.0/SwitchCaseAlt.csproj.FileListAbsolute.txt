@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\bin\Debug\net10.0\SwitchCaseAlt.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\bin\Debug\net10.0\SwitchCaseAlt.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\bin\Debug\net10.0\SwitchCaseAlt.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\bin\Debug\net10.0\SwitchCaseAlt.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\bin\Debug\net10.0\SwitchCaseAlt.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\refint\SwitchCaseAlt.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\SwitchCaseAlt.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\SwitchCaseAlt\obj\Debug\net10.0\ref\SwitchCaseAlt.dll
