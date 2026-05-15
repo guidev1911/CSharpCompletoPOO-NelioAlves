@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\bin\Debug\net10.0\OperadoresAritmeticos.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\refint\OperadoresAritmeticos.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\OperadoresAritmeticos.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\OperadoresAritmeticos\obj\Debug\net10.0\ref\OperadoresAritmeticos.dll
