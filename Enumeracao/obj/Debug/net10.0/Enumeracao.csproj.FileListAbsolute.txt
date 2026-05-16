@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\bin\Debug\net10.0\Enumeracao.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\bin\Debug\net10.0\Enumeracao.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\bin\Debug\net10.0\Enumeracao.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\bin\Debug\net10.0\Enumeracao.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\bin\Debug\net10.0\Enumeracao.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\refint\Enumeracao.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\Enumeracao.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Enumeracao\obj\Debug\net10.0\ref\Enumeracao.dll
