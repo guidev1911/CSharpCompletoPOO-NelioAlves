@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\bin\Debug\net10.0\Conta.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\bin\Debug\net10.0\Conta.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\bin\Debug\net10.0\Conta.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\bin\Debug\net10.0\Conta.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\bin\Debug\net10.0\Conta.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\refint\Conta.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\Conta.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\Conta\obj\Debug\net10.0\ref\Conta.dll
