@@ -1,0 +1,15 @@
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\bin\Debug\net10.0\StringBuilder.exe
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\bin\Debug\net10.0\StringBuilder.deps.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\bin\Debug\net10.0\StringBuilder.runtimeconfig.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\bin\Debug\net10.0\StringBuilder.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\bin\Debug\net10.0\StringBuilder.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.AssemblyInfoInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.AssemblyInfo.cs
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.csproj.CoreCompileInputs.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.sourcelink.json
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\refint\StringBuilder.dll
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.pdb
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\StringBuilder.genruntimeconfig.cache
+E:\PROJETOS-PESSOAIS\CSharpCompletoPOO-NelioAlves\StringBuilder\obj\Debug\net10.0\ref\StringBuilder.dll
